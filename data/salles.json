@@ -1,0 +1,17 @@
+[
+  {
+    "identifiant": "LOC-A",
+    "designation": "Auditoire A",
+    "capacite": 220
+  },
+  {
+    "identifiant": "LOC-B",
+    "designation": "Auditoire B",
+    "capacite": 200
+  },
+  {
+    "identifiant": "LOC-C",
+    "designation": "Salle C",
+    "capacite": 180
+  }
+]

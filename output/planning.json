@@ -1,0 +1,90 @@
+[
+    {
+        "id_salle": "LOC-A",
+        "id_cours": "PRJ210",
+        "id_groupe": "LMD",
+        "jour": "Samedi",
+        "heure_debut": "08h00",
+        "heure_fin": "12h00"
+    },
+    {
+        "id_salle": "LOC-A",
+        "id_cours": "RES202",
+        "id_groupe": "LMD",
+        "jour": "Lundi",
+        "heure_debut": "13h00",
+        "heure_fin": "17h00"
+    },
+    {
+        "id_salle": "LOC-A",
+        "id_cours": "PHP209A",
+        "id_groupe": "LMD",
+        "jour": "Vendredi",
+        "heure_debut": "08h00",
+        "heure_fin": "12h00"
+    },
+    {
+        "id_salle": "LOC-A",
+        "id_cours": "PHP209B",
+        "id_groupe": "LMD",
+        "jour": "Vendredi",
+        "heure_debut": "13h00",
+        "heure_fin": "17h00"
+    },
+    {
+        "id_salle": "LOC-A",
+        "id_cours": "TMO201",
+        "id_groupe": "LMD",
+        "jour": "Lundi",
+        "heure_debut": "08h00",
+        "heure_fin": "12h00"
+    },
+    {
+        "id_salle": "LOC-A",
+        "id_cours": "MAN203",
+        "id_groupe": "LMD",
+        "jour": "Mardi",
+        "heure_debut": "08h00",
+        "heure_fin": "12h00"
+    },
+    {
+        "id_salle": "LOC-A",
+        "id_cours": "GPI207",
+        "id_groupe": "LMD",
+        "jour": "Jeudi",
+        "heure_debut": "08h00",
+        "heure_fin": "12h00"
+    },
+    {
+        "id_salle": "LOC-A",
+        "id_cours": "ANG208",
+        "id_groupe": "LMD",
+        "jour": "Jeudi",
+        "heure_debut": "13h00",
+        "heure_fin": "17h00"
+    },
+    {
+        "id_salle": "LOC-A",
+        "id_cours": "IRS204",
+        "id_groupe": "LMD",
+        "jour": "Mardi",
+        "heure_debut": "13h00",
+        "heure_fin": "17h00"
+    },
+    {
+        "id_salle": "LOC-A",
+        "id_cours": "PSE205",
+        "id_groupe": "LMD",
+        "jour": "Mercredi",
+        "heure_debut": "08h00",
+        "heure_fin": "12h00"
+    },
+    {
+        "id_salle": "LOC-A",
+        "id_cours": "DRI206",
+        "id_groupe": "LMD",
+        "jour": "Mercredi",
+        "heure_debut": "13h00",
+        "heure_fin": "17h00"
+    }
+]

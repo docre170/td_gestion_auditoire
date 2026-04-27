@@ -1,0 +1,68 @@
+[
+  {
+    "identifiant": "TMO201",
+    "intitule": "Technique de maintenance des ordinateurs",
+    "volume_horaire": 45,
+    "promotion_option": "LMD"
+  },
+  {
+    "identifiant": "RES202",
+    "intitule": "Reseaux informatiques",
+    "volume_horaire": 60,
+    "promotion_option": "LMD"
+  },
+  {
+    "identifiant": "MAN203",
+    "intitule": "Methodes et analyse numerique",
+    "volume_horaire": 45,
+    "promotion_option": "LMD"
+  },
+  {
+    "identifiant": "IRS204",
+    "intitule": "Initiation a la recherche scientifique",
+    "volume_horaire": 30,
+    "promotion_option": "LMD"
+  },
+  {
+    "identifiant": "PSE205",
+    "intitule": "Programmation systemes embarques 1",
+    "volume_horaire": 30,
+    "promotion_option": "LMD"
+  },
+  {
+    "identifiant": "DRI206",
+    "intitule": "Droit informatique",
+    "volume_horaire": 30,
+    "promotion_option": "LMD"
+  },
+  {
+    "identifiant": "GPI207",
+    "intitule": "Gestion des projets informatiques",
+    "volume_horaire": 45,
+    "promotion_option": "LMD"
+  },
+  {
+    "identifiant": "ANG208",
+    "intitule": "Anglais technique 2",
+    "volume_horaire": 45,
+    "promotion_option": "LMD"
+  },
+  {
+    "identifiant": "PHP209A",
+    "intitule": "PHP 2",
+    "volume_horaire": 60,
+    "promotion_option": "LMD"
+  },
+  {
+    "identifiant": "PHP209B",
+    "intitule": "PHP 2",
+    "volume_horaire": 60,
+    "promotion_option": "LMD"
+  },
+  {
+    "identifiant": "PRJ210",
+    "intitule": "Projet 2",
+    "volume_horaire": 75,
+    "promotion_option": "LMD"
+  }
+]
